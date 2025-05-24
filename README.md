@@ -1,1 +1,1 @@
-# ANN-Based-ADRC-Controller
+Developed a system using Artificial Neural Networks (ANN) to estimate key performance metrics of an Active Disturbance Rejection Control (ADRC) system, including input voltage, settling time, and undershoot. The ANN model is trained on simulated or real-world data from the ADRC system, enabling accurate prediction and analysis of control behavior under varying conditions. This approach enhances the adaptive capability of control systems by providing fast and reliable estimation of critical dynamic responses without extensive mathematical modeling.
